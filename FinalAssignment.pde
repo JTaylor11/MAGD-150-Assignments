@@ -17,7 +17,7 @@ void setup(){
   size(800, 600);
   //images
   MasterChief = loadImage("MasterChief.jpeg");
-  Earth = loadImage("Earth.jpeg");
+  Earth = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769853/eb6e3d06-a1b6-11e5-8cac-69fbceef969d.jpeg");
   Joker = loadImage("Joker.jpeg");
   Portal = loadImage("Portal.jpeg");
   //classes
