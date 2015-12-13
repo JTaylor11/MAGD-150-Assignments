@@ -12,7 +12,7 @@ boolean onGround=false;
 void setup(){
  size(800, 600); 
  bucks = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769783/eea1efa6-a1b4-11e5-94ad-cfc73aa8af3c.png");
- fear = loadImage("fear.png");
+ fear = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769792/16c0e6e0-a1b5-11e5-87b1-102cf7c7d152.png");
 }
  
 void draw(){
