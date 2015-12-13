@@ -10,7 +10,7 @@ void setup(){
   myTimer = new Timer(10000);
   myCShip = new CShip();
   myStars = new Stars();
-  dragon = loadImage("dragon.jpeg");
+  dragon = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769817/e91e96fa-a1b5-11e5-8ccb-b97add86eedd.jpeg");
 }
 
 void draw(){
