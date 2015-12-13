@@ -11,7 +11,7 @@ boolean onGround=false;
 
 void setup(){
  size(800, 600); 
- bucks = loadImage("bucks.png");
+ bucks = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769783/eea1efa6-a1b4-11e5-94ad-cfc73aa8af3c.png");
  fear = loadImage("fear.png");
 }
  
