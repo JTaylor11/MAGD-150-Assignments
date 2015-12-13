@@ -18,7 +18,7 @@ void setup(){
   //images
   MasterChief = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769881/460ca284-a1b7-11e5-920a-2e91c8bf9e0c.jpeg");
   Earth = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769853/eb6e3d06-a1b6-11e5-8cac-69fbceef969d.jpeg");
-  Joker = loadImage("Joker.jpeg");
+  Joker = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769888/97d147e6-a1b7-11e5-87de-7359368b1ad6.jpeg");
   Portal = loadImage("Portal.jpeg");
   //classes
   myStars = new Stars();
