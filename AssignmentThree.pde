@@ -15,7 +15,7 @@ float ypos2 = 300;
 void setup(){
   size(800, 600);
   burger = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769741/bd08d924-a1b3-11e5-8448-78c5602e7e84.jpeg");
-  happyBurger = loadImage("happyburger.jpeg");
+  happyBurger = loadImage("https://cloud.githubusercontent.com/assets/16229370/11769747/f60a2638-a1b3-11e5-859b-d2c2f49e873a.jpeg");
   myHungryFace = new hungryFace();
   myUpsetFace = new upsetFace();
 }
